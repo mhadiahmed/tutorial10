@@ -1,0 +1,721 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"qu",
+				"query"
+			],
+			[
+				"qy",
+				"query"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"fro",
+				"form\tTag"
+			],
+			[
+				"fi",
+				"fielname"
+			],
+			[
+				"S",
+				"STATIC_URL\t(settings.py)"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"ST",
+				"STATIC_ROOT\t(settings.py)"
+			],
+			[
+				"ur",
+				"urlpatterns"
+			],
+			[
+				"D",
+				"DEBUG\t(settings.py)"
+			],
+			[
+				"se",
+				"settings\t(settings.py)"
+			],
+			[
+				"MEDIA",
+				"MEDIA_ROOT"
+			],
+			[
+				"ba",
+				"blank"
+			],
+			[
+				"n",
+				"null"
+			],
+			[
+				"btn",
+				"btn-primary\t(list.html)"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"re",
+				"rel\tAttr"
+			],
+			[
+				"get_",
+				"get_object_or_404"
+			],
+			[
+				"va",
+				"value\tAttr"
+			],
+			[
+				"me",
+				"method\tAttr"
+			],
+			[
+				"Model",
+				"ModelForm\tModelForm"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"user",
+				"USER"
+			],
+			[
+				"h",
+				"HttpResponse"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"cl",
+				"class\t(admin.py)"
+			],
+			[
+				"User",
+				"UserProfile"
+			],
+			[
+				"Usre",
+				"UserRigester"
+			],
+			[
+				"M",
+				"ModelForm"
+			],
+			[
+				"use",
+				"userProfile"
+			],
+			[
+				"lo",
+				"login_required"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"up",
+				"update_session_auth_hash"
+			],
+			[
+				"is",
+				"is_valid"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"hi",
+				"height\tAttr"
+			],
+			[
+				"is_",
+				"is_authenticated"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"Def",
+				"default"
+			],
+			[
+				"margint",
+				"margin-left"
+			],
+			[
+				"con",
+				"Context"
+			],
+			[
+				"htt",
+				"Http404"
+			],
+			[
+				"ema",
+				"EMAIL_HOST_USER"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"P",
+				"Permission"
+			],
+			[
+				"get",
+				"get_user_model"
+			],
+			[
+				"g",
+				"GET"
+			],
+			[
+				"co",
+				"contrib"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"em",
+				"email2"
+			],
+			[
+				"u",
+				"UserLoginForm"
+			],
+			[
+				"pa",
+				"parent"
+			],
+			[
+				"ge",
+				"get_or_create"
+			],
+			[
+				"com",
+				"comment"
+			],
+			[
+				"pare",
+				"parent_qs"
+			],
+			[
+				"commen",
+				"comment"
+			],
+			[
+				"no",
+				"None"
+			],
+			[
+				"ht",
+				"HttpResponseRedirect"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"cont",
+				"content_data"
+			],
+			[
+				"come",
+				"comments"
+			],
+			[
+				"Co",
+				"ContentType"
+			],
+			[
+				"f",
+				"form"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"conte",
+				"content_type"
+			],
+			[
+				"ma",
+				"markDown"
+			],
+			[
+				"Po",
+				"PostManager"
+			],
+			[
+				"au",
+				"auto_now_add"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"t",
+				"template_name"
+			],
+			[
+				"d",
+				"django"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/blog/templates/list.html",
+			"settings":
+			{
+				"buffer_size": 1353,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 192.0,
+		"last_filter": "pa",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"python",
+				"Build With: Python"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/mhadi/Desktop/tutorial10",
+		"/home/mhadi/Desktop/tutorial10/src",
+		"/home/mhadi/Desktop/tutorial10/src/blog",
+		"/home/mhadi/Desktop/tutorial10/src/blog/templates"
+	],
+	"file_history":
+	[
+		"/home/mhadi/Desktop/tutorial10/src/blog/views.py",
+		"/home/mhadi/Desktop/tutorial10/src/blog/templates/list.html",
+		"/home/mhadi/Desktop/tutorial10/src/blog/templates/detail.html",
+		"/home/mhadi/Desktop/tutorial10/src/blog/models.py",
+		"/home/mhadi/Desktop/tutorial10/src/tutorial10/settings.py",
+		"/home/mhadi/Desktop/tutorial10/src/blog/templates/form.html",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/eCommerce/settings.py",
+		"/home/mhadi/Desktop/test.py",
+		"/home/mhadi/Desktop/tutorial10/src/blog/templates/index.html",
+		"/home/mhadi/Desktop/tutorial10/src/blog/templates/messages.html",
+		"/home/mhadi/Desktop/tutorial10/src/blog/forms.py",
+		"/home/mhadi/Desktop/tutorial10/src/blog/urls.py",
+		"/home/mhadi/Desktop/myFiles/tutorial10 (copy)/src/blog/models.py",
+		"/home/mhadi/Desktop/tutorial10/src/blog/static/css/style.css",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/eCommerce/urls.py",
+		"/home/mhadi/Desktop/tutorial10/src/blog/templates/massages.html",
+		"/home/mhadi/Desktop/tutorial10/src/blog/templates/froms.html",
+		"/home/mhadi/Desktop/tutorial10/src/blog/templates/forms.html",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/blog/models.py",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/blog/templates/blog/home.html",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/blog/views.py",
+		"/home/mhadi/Desktop/tutorial10/src/blog/migrations/0001_initial.py",
+		"/home/mhadi/Desktop/tutorial10/tutorial10.sublime-project",
+		"/home/mhadi/Desktop/tutorial10/src/manage.py",
+		"/home/mhadi/Desktop/tutorial10/src/crud.md",
+		"/home/mhadi/Desktop/tutorial10/src/blog/admin.py",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/blog/templates/blog/detail.html",
+		"/home/mhadi/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/mhadi/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/mhadi/Desktop/tutorial10/src/blog/templates/indext.html",
+		"/home/mhadi/Desktop/tutorial10/src/tutorial10/urls.py",
+		"/home/mhadi/Desktop/node-ejs/views/partials/header.ejs",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/account/models.py",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/account/templates/singup.html",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/account/forms.py",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/account/views.py",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/templates/blog/contact.html",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/templates/blog/direct.html",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/urls.py",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/templates/blog/home.html",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/templates/blog/detail.html",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/views.py",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/templates/blog/contact.html",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/templates/blog/password/password_reset.html",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/templates/blog/password/password_confirm.html",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/templates/blog/header.html",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/account/templates/login.html",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/templates/blog/section/sports.html",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/templates/blog/section/property.html",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/templates/blog/section/other.html",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/templates/blog/section/makeup.html",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/templates/blog/section/laptop.html",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/templates/blog/section/jops.html",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/templates/blog/section/furnishings.html",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/templates/blog/section/electronic.html",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/templates/blog/section/clothes.html",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/templates/blog/section/books.html",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/templates/blog/section/phone.html",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/templates/blog/section/car.html",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/models.py",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/templates/blog/profile.html",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/forms.py",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/templates/blog/password/password_complete.html",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/account/admin.py",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/templates/blog/password_reset.html",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/templates/blog/password_sent.html",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/eCommerce/urls.py",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/eCommerce/settings.py",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/eCommerce/middleware.py",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/account/urls.py",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/templates/blog/Change_pass.html",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/templates/blog/edit_profile.html",
+		"/home/mhadi/Desktop/startbootstrap-scrolling-nav-gh-pages/index.html",
+		"/home/mhadi/Desktop/startbootstrap-scrolling-nav-gh-pages/js/scrolling-nav.js",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/static/blog/css/style.css",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/templates/blog/buy.html",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/static/blog/js/plugin.js",
+		"/home/mhadi/Desktop/startbootstrap-scrolling-nav-gh-pages/css/scrolling-nav.css",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/static/blog/js/jquery.easing.min.js",
+		"/home/mhadi/Desktop/startbootstrap-scrolling-nav-gh-pages/js/jquery.js",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/templates/blog/403edit2.html",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/comments/views.py",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/templates/blog/DeletePost.html",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/templates/blog/include/header2.html",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/templates/blog/403edit.html",
+		"/home/mhadi/Desktop/myworkspace /static_cdn/blog/js/plugin.js",
+		"/media/mhadi/5A2AB8AA2AB88513/Users/user/Documents/how to program.txt",
+		"/home/mhadi/Desktop/style.css",
+		"/home/mhadi/Desktop/index.html",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/templates/blog/noprofile.html",
+		"/home/mhadi/Desktop/myworkspace /eCommerce/blog/templates/blog/response.html",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/blog/forms.py",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/blog/urls.py",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/blog/admin.py",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/blog/templates/blog/profile.html",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/blog/templates/blog/noprofile.html",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/comments/views.py",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/comments/models.py",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/blog/logo.jpg",
+		"/home/mhadi/Desktop/test/sublime",
+		"/home/mhadi/Desktop/test/cd",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/blog/templates/blog/include/footer.html",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/blog/static/blog/css/style.css",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/account/templates/login.html",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/blog/templates/blog/header.html",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/blog/templates/blog/contact.html",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/blog/static/blog/js/plugin.js",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/blog/templates/blog/include/header2.html",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/blog/templates/blog/section/books.html",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/blog/templates/blog/section/car.html",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/blog/templates/blog/section/phone.html",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/blog/templates/blog/section/clothes.html",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/blog/templates/blog/section/electronic.html",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/blog/templates/blog/section/furnishings.html",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/blog/templates/blog/section/jops.html",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/blog/templates/blog/section/laptop.html",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/blog/templates/blog/section/makeup.html",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/blog/templates/blog/section/other.html",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/blog/templates/blog/section/property.html",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/blog/templates/blog/section/sports.html",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/blog/templates/blog/404.html",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/comments/forms.py",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/blog/templates/blog/create.html",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/account/views.py",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/blog/templates/blog/response.html",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/blog/templates/blog/about.html",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/account/forms.py",
+		"/home/mhadi/Desktop/myworkspace/eCommerce/account/templates/login2.html"
+	],
+	"find":
+	{
+		"height": 55.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"/home/mhadi/Desktop/myworkspace",
+			"/home/mhadi/Desktop/myworkspace/eCommerce"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"STATIC_ROOT",
+			"form",
+			"1",
+			"view_title",
+			">\n",
+			"password",
+			"'),\n",
+			"'),",
+			")\n",
+			"global",
+			"pup",
+			"\">\n",
+			"id",
+			"comment.parent",
+			"Comments",
+			"jquery",
+			"pup",
+			"():",
+			"all",
+			"__str__"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"blog"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/blog/templates/list.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1353,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								276,
+								1052
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 33.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 71.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 154.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "tutorial10.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"eCommerce/blog/urls.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 299.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

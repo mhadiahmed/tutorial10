@@ -1,0 +1,44 @@
+{%extends 'index.html' %}
+{%block content%}
+	<div class="col-sm-6 col-sm-offset-3">
+		<h1>Posts</h1>
+		<form method="GET" action="">
+			<input type="text" name="q" placeholder="Search post .." value="{{request.GET.q}}">
+			<input type="submit" value="Search">
+		</form>
+		<br>
+		{%for obj in query%}
+			<div class="row">
+			  <div class="col-md-12">
+			    <div class="thumbnail">
+			      {% if obj.image %}
+					<img src="{{obj.image.url}}" class="img-responsive">	
+				  {% endif %}
+			      <div class="caption">
+			        <h3><a href="{{obj.get_url}}">{{obj.title}}</a></h3>
+			        <span>{{obj.puplish}}</span>
+			        <p>User: {{obj.user}}</p>
+			        <p>{{obj.content}}</p>
+			        <p><a href="{{obj.get_url}}" class="btn btn-primary" role="button">View</a></p>
+			      </div>
+			    </div>
+			  </div>
+			</div>
+		{%endfor%}
+		<div class="pagination">
+		    <span class="step-links">
+		        {% if query.has_previous %}
+		            <a href="?{{page_var}}={{ query.previous_page_number }}">previous</a>
+		        {% endif %}
+
+		        <span class="current">
+		            Page {{ query.number }} of {{ query.paginator.num_pages }}.
+		        </span>
+
+		        {% if query.has_next %}
+		            <a href="?{{page_var}}={{ query.next_page_number }}">next</a>
+		        {% endif %}
+		    </span>
+		</div>
+	</div>
+{%endblock%}
